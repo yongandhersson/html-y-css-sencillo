@@ -1,0 +1,73 @@
+body{
+    width: 1500px;
+    height: 750px;
+    background-color: black;
+   margin: auto;
+}
+.login{
+    width: 650px;
+    height: 750px;
+    background-color: white;
+    float: left;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+table{
+    margin-top: 150px;
+    background-color:cornflowerblue;
+    border-radius: 15px;
+}
+.text{
+    background-color: aqua;
+    border-radius: 10px;
+    border: 3px solid black;
+   width: 150px;
+   height: 20px;
+}
+select{
+    background-color: aqua;
+    border-radius: 10px;
+    border: 3px solid black;
+    text-align: center;
+}
+textarea{
+    background-color: aqua;
+    border-radius: 10px;
+}
+.img{
+    width: 850px;
+    height: 750px;
+    background-color: blue;
+    float: right;
+}
+.boton{
+    background-color: blue;
+    border-radius: 10px;
+    border: 3px black solid;
+    color: white;
+}
+.boton:hover{
+    background-color: aqua;
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    background-color: black;
+    border-radius: 6px;
+}
+a:hover{
+    background-color: aqua;
+    color: black;
+}
+h2{
+    text-align: center;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

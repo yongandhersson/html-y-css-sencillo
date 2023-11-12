@@ -1,0 +1,157 @@
+body{
+    width: 1500px;
+    height: 750px;
+    background-color: #E0FFFF;
+   margin: auto;
+}
+header{
+    width: 1500px;
+    height: 80px;
+    background-color: red;
+}
+.logo{
+    width: 100px;
+    height: 80px;
+    background-color: white;
+    float: left;
+}
+.img1{
+    margin-top: 25px;
+}
+.img2{
+    margin-top: 13px;
+}
+.titulo{
+    width: 1300px;
+    height: 80px;
+    background-color: white;
+    float: left;
+}
+.sesion{
+    width: 100px;
+    height: 80px;
+    background-color: white;
+    float: right;
+}
+h1{
+    font-size: 30px;
+    color: #00008B;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+nav{
+    width: 100px;
+    height: 400px;
+    background-color: #2E86C1;
+    float: left;
+}
+.lista{
+    margin-top: 22px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;   
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 18px;
+}
+
+nav ul li a:hover{
+color: black;
+}
+main{
+    width: 1400px;
+    height: 400px;
+    background-color: green;
+    float: left;
+}
+article{
+    width: 800px;
+    height: 400px;
+    background-color: #87CEEB;
+    float: left;
+}
+
+.letra{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.copa{
+     margin-top: 10px;
+}
+aside{
+    width: 600px;
+    height: 400px;
+    background-color: #00BFFF;
+    float: right;
+} 
+h2{
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 15px;
+}
+.contenido{
+    width: 1500px;
+    height: 240px;
+    background-color: white;
+    float: right;
+}
+.arg1{
+    border: 5px white dashed;
+}
+.camp1{
+    border: 5px #00BFFF dashed;
+}
+.camp2{
+    border: 5px #00008B dashed;
+}
+.camp3{
+    border: 5px black dashed;
+}
+.camp4{
+    border: 5px red dashed;
+}
+.camp{
+    color: #2E86C1 ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+}
+.campeones{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer{
+    width: 1500px;
+    height: 50px;
+    background-color:turquoise;
+    float: right;
+}
+.copy{
+    margin-top: 8px;
+    font-size: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: left;
+}
+.fifa{
+   float: right;
+   margin-right: 200px;
+   margin-top: 12px;
+}
+.face{
+    float: right;
+    margin-right: 200px;
+ }
+ .inst{
+    float: right;
+    margin-right: 200px;
+    margin-top: 2px;
+ }
+ .tik{
+    float: right;
+    margin-right: 200px;
+    margin-top: 5px;
+ }

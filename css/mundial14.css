@@ -1,0 +1,115 @@
+body{
+    width: 1500px;
+    height: 750px;
+    background-color: #E0FFFF;
+   margin: auto;
+}
+header{
+    width: 1500px;
+    height: 120px;
+    background-color: red;
+}
+.logo{
+    width: 120px;
+    height: 120px;
+    background-color: #E65100;
+    float: left;
+}
+.img1{
+    margin-top: 8px;
+}
+.img2{
+    margin-right: 10px;
+    margin-top: 5px;
+}
+.titulo{
+    width: 1260px;
+    height: 120px;
+    background-color: #E65100;
+    float: left;
+}
+h1{
+    font-size: 30px;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center; 
+    margin-top: 40px;
+}
+.mascota{
+    width: 120px;
+    height: 120px;
+    background-color: #E65100;
+    float: right;
+}
+nav{
+    width: 120px;
+    height: 610px;
+    background-color: #F9A825;
+    float: left;
+}
+.lista{
+    margin-top: 22px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;   
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 21px;
+}
+
+nav ul li a:hover{
+color: black;
+}
+.seccion{
+    width: 1380px;
+    height: 610px;
+    background-color: #FFCC66;
+    float: right;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+main{
+    width: 1500px;
+    height: 350px;
+    background-color: red;
+    float: right;
+}
+.resumen{
+    width: 750px;
+    height: 350px;
+    background-color: #E65100;
+    float: left;
+}
+h2{
+color: white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+}
+.video{
+    width: 750px;
+    height: 350px;
+    background-color: #F9A825;
+    float: right;
+}
+iframe{
+    margin-top: 15px;
+    border: 5px white dashed;
+}
+footer{
+    width: 1500px;
+    height: 80px;
+    background-color: black;
+    float: right;
+}
+.copy{
+    color: white;
+    font-size: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 25px;
+}
